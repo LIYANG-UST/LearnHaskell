@@ -1,7 +1,8 @@
 # LearnHaskell
 
-An advanced, purely functional programming language.\
-Smart Contracts in Cardano is based on Haskell named "Plutus". \
+An advanced, purely functional programming language.
+
+Smart Contracts in Cardano is based on Haskell named "Plutus".
 
 Target: Build a smart contract on Cardano.
 
