@@ -1,7 +1,7 @@
-import Palindrome (isPalindrome)
-
+import Palindrome 
+import Data.Char
 main :: IO()
 main = 
     do 
         word <- getLine
-        print(isPalindrome word)
+        print(verbose word)
